@@ -15,5 +15,11 @@
 
 # 5 Commands in command prompt
 
-To change the console color we can use: **color 2** - for making the console green, while 2 is the attribute for green.
+- To change the console color we can use: **color 2** - for making the console green, while 2 is the attribute for green.
+- To see a episode of Star Wars in cmd, we can use **telnet towel.blinkenlights.nl**   
+But to use this we have to turn on an windows feature called `telnet`
+- To see the system info try **Systeminfo**
+- To know more about how a command works and what it's attributes are, type **Command /?** e.g. color /?
+- To check connectivity between my device and another host device we can test ping, to test use **ping google.com**
+
 
